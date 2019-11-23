@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="about_us_acercade">acerca de.........</string>
+    <string name="esta_aplicavio_reporte">esta_aplicavio_reporte</string>
+    <string name="Autores">Autores</string>
+    <string name="Pedro_Aquino">Pedro Aquino</string>
+    <string name="Sixto_Aquino">Sixto Aquino</string>
 </resources>
